@@ -73,5 +73,5 @@ We welcome your feedback, suggestions, and contributions to improve this project
 ## About the Author
 
 This project is maintained by [Manav Barot](https://github.com/themnvrao76). Feel free to reach out for any inquiries or collaborations.
-We have incorporated certain utility functions from AladdinPersson Videos Thanks to him
+We have incorporated certain utility functions from [Aladdin Persson](https://github.com/aladdinpersson) Videos Thanks to him
 Happy image captioning! 📷📝
