@@ -1,20 +1,20 @@
 # Image-Captioning-with-Transformers
 
-# Image Captioning with MaVit Encoder and Transformers Decoder
+# Image Captioning with MaxVit Encoder and Transformers Decoder
 
 ![Example Image Caption](Output/imagecaptioning.jpg)
 
-Welcome to the Image Captioning project, a powerful image captioning model using MaVit as the encoder and Transformers as the decoder. This repository provides all the necessary code and resources to create an advanced image captioning system that generates descriptive captions for images.
+Welcome to the Image Captioning project, a powerful image captioning model using MaxVit as the encoder and Transformers as the decoder. This repository provides all the necessary code and resources to create an advanced image captioning system that generates descriptive captions for images.
 
 ## Overview
 
-- **MaVit Encoder**: We leverage the MaVit (Vision Transformer) model from the TIMM (PyTorch Image Models) library as the encoder. It is pre-trained on the ImageNet dataset and serves as a robust feature extractor for image understanding.
+- **MaxVit Encoder**: We leverage the MaxVit (Vision Transformer) model from the TIMM (PyTorch Image Models) library as the encoder. It is pre-trained on the ImageNet dataset and serves as a robust feature extractor for image understanding.
 
 - **Transformers Decoder**: For natural language caption generation, we employ a Transformers-based decoder. This architecture excels at sequential data generation tasks and ensures the generated captions are fluent and contextually accurate.
 
 - **Training**: The core components of the model are defined in the `model.py` file. The `train.py` script is responsible for training the model using image-caption pairs. The `get_loader.py` script handles data loading and preprocessing, making it easy to adapt the model to different datasets.
 
-- **High-Quality Results**: We have fine-tuned the model to produce impressive results in generating captions for various types of images. These results showcase the effectiveness of MaVit as an encoder and the Transformers decoder in providing meaningful and coherent image descriptions.
+- **High-Quality Results**: We have fine-tuned the model to produce impressive results in generating captions for various types of images. These results showcase the effectiveness of MaxVit as an encoder and the Transformers decoder in providing meaningful and coherent image descriptions.
 
 ## Usage
 
