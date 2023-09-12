@@ -21,7 +21,7 @@ Welcome to the Image Captioning project, a powerful image captioning model using
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/your-username/image-captioning.git
+    git clone https://github.com/themnvrao76/image-captioning.git
     ```
 
 2. **Install Dependencies**: Make sure you have all the required dependencies installed. You can install them using `pip`:
